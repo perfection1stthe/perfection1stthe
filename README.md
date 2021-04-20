@@ -1,3 +1,5 @@
+[![mtraball's 42 stats](https://badge42.herokuapp.com/api/stats/mtraball?privacyEmail=true)](https://github.com/mtraball/badge42)
+
 <h3 align="center">How Change The World - Tutorial part1 👋 </h3>
 
 | [![perfection1stthe's GitHub stats](https://github-readme-stats.vercel.app/api?username=perfection1stthe&count_private=true&show_icons=true&hide=issues&hide_border=true&theme=jolly)](https://github.com/perfection1stthe?tab=repositories) | [![perfection1stthe's most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=perfection1stthe&layout=compact&hide_border=true&theme=jolly)](https://github.com/perfection1stthe?tab=repositories) |
@@ -19,6 +21,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![mtraball's 42 stats](https://badge42.herokuapp.com/api/stats/mtraball?privacyEmail=true)](https://github.com/mtraball/badge42)
+
 
 
