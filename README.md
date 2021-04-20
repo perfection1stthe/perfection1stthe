@@ -1,8 +1,5 @@
 <h3 align="center">How Change The World - Tutorial part1 👋 </h3>
 
-  <img style="margin:auto;" src="universe.gif" width="100%">
-
-
 | [![perfection1stthe's GitHub stats](https://github-readme-stats.vercel.app/api?username=perfection1stthe&count_private=true&show_icons=true&hide=issues&hide_border=true&theme=jolly)](https://github.com/perfection1stthe?tab=repositories) | [![perfection1stthe's most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=perfection1stthe&layout=compact&hide_border=true&theme=jolly)](https://github.com/perfection1stthe?tab=repositories) |
 |:-:|:-:|
 <img src="https://komarev.com/ghpvc/?username=goralive" alt="goralive" />
